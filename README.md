@@ -70,12 +70,25 @@ This repository contains structured daily assignments for mastering Selenium Web
 ### 🧪 Test File
 - `Day4AdvancedUIInteractions.java`
 
+✅ Day 5 – Java OOP Concepts with Selenium
+Topics Covered Practiced:
+Class and Object
+-Constructor and Constructor Overloading
+-Inheritance (LoginTest extends BaseTest)
+-Encapsulation (private WebElements in LoginPage)
+-Method Overloading (login() variations in LoginPage)
+-Method Overriding (login() in InvalidLoginPage)
+
+### 🧪 Test File
+- Day5_Java_OOP Folder
+
 ### 🔗 Practice Sites
 - Alerts: https://demoqa.com/alerts
 - Frames: https://demoqa.com/frames
 - Nested Frames: https://demoqa.com/nestedframes
 - Browser Windows: https://demoqa.com/browser-windows
 - Modal Dialogs: https://demoqa.com/modal-dialogs
+- OOP concepts: https://practicetestautomation.com/practice-test-login/
 
 ---
 
@@ -94,6 +107,14 @@ This repository contains structured daily assignments for mastering Selenium Web
 1. Open project in Eclipse
 2. Right-click on desired test class (e.g., `Day3FormAutomationTest.java`) → `Run As` → `Java Application`
 3. Observe execution in Chrome and check console output
+
+---
+## 📌 How to Run Day5 OOP Java classes
+- Run main() method in LoginTest class
+- Chrome browser will open and execute:
+- Valid login using manual methods
+- Valid login using constructor auto-fill
+- Invalid login with error validation
 
 ---
 
