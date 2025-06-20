@@ -4,11 +4,14 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+//extend loginpage to ingerit those properties
 public class InvalidLoginPage extends LoginPage {
 	public InvalidLoginPage(WebDriver driver) {
+		//using base class constructor
 		super(driver);
 	}
 
+	//*************************Overriding*****************
 	@Override
     public void submitLogin(String username, String password) {
         System.out.println("Attempting invalid login...");

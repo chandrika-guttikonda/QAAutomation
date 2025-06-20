@@ -15,6 +15,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 
+//WebDriver Methods, Browser Navigationmethods, Window handling
 public class Day2BrowserNavigation {
 	public static void main(String args[]) throws Exception{
 

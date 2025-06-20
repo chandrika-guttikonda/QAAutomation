@@ -13,6 +13,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
+//Alerts, Windows, Frames, Modals
 public class Day4AdvancedUIInteractions {
 
 	public static void main(String[] args) {
