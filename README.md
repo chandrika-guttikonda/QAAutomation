@@ -70,6 +70,8 @@ This repository contains structured daily assignments for mastering Selenium Web
 ### 🧪 Test File
 - `Day4AdvancedUIInteractions.java`
 
+---
+
 ✅ Day 5 – Java OOP Concepts with Selenium
 Topics Covered Practiced:
 Class and Object
@@ -82,6 +84,14 @@ Class and Object
 ### 🧪 Test File
 - Day5_Java_OOP Folder
 
+---
+
+Day 6 - Java String,Arrays, Loops,Conditional Logic
+- String validation (trimming input, checking messages)
+- Array-based logic for gender and hobby options
+- Loops for verifying all options are present and interactable
+- Conditional logic to control whether the form submits or blocks
+
 ### 🔗 Practice Sites
 - Alerts: https://demoqa.com/alerts
 - Frames: https://demoqa.com/frames
@@ -89,7 +99,7 @@ Class and Object
 - Browser Windows: https://demoqa.com/browser-windows
 - Modal Dialogs: https://demoqa.com/modal-dialogs
 - OOP concepts: https://practicetestautomation.com/practice-test-login/
-
+- Day 6 Concepts: https://demoqa.com/automation-practice-form
 ---
 
 ## 🛠️ Tools & Setup
