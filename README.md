@@ -92,6 +92,17 @@ Day 6 - Java String,Arrays, Loops,Conditional Logic
 - Loops for verifying all options are present and interactable
 - Conditional logic to control whether the form submits or blocks
 
+---
+
+Day 7 - Java Collections
+
+- List
+- Set
+- Map
+- Iterator
+
+---
+
 ### 🔗 Practice Sites
 - Alerts: https://demoqa.com/alerts
 - Frames: https://demoqa.com/frames
