@@ -86,7 +86,7 @@ Class and Object
 
 ---
 
-Day 6 - Java String,Arrays, Loops,Conditional Logic
+### Day 6 - Java String,Arrays, Loops,Conditional Logic
 - String validation (trimming input, checking messages)
 - Array-based logic for gender and hobby options
 - Loops for verifying all options are present and interactable
@@ -94,7 +94,7 @@ Day 6 - Java String,Arrays, Loops,Conditional Logic
 
 ---
 
-Day 7 - Java Collections
+### Day 7 - Java Collections
 
 - List
 - Set
@@ -102,6 +102,14 @@ Day 7 - Java Collections
 - Iterator
 
 ---
+
+### ✅ Day 8: Wait Strategies + Flaky Element Handling
+**Concepts Used:**  
+- Implicit Wait  
+- Explicit Wait  
+- Fluent Wait  
+- Retry + Exception Handling for flaky elements
+
 
 ### 🔗 Practice Sites
 - Alerts: https://demoqa.com/alerts
@@ -111,6 +119,8 @@ Day 7 - Java Collections
 - Modal Dialogs: https://demoqa.com/modal-dialogs
 - OOP concepts: https://practicetestautomation.com/practice-test-login/
 - Day 6 Concepts: https://demoqa.com/automation-practice-form
+- Day 7 Java Collections: https://practicetestautomation.com/practice-test-login/
+- day 8 Wait Strategies: https://the-internet.herokuapp.com/dynamic_controls
 ---
 
 ## 🛠️ Tools & Setup
