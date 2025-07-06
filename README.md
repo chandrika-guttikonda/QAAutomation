@@ -110,6 +110,29 @@ Class and Object
 - Fluent Wait  
 - Retry + Exception Handling for flaky elements
 
+---
+
+# Day 9 – Locator Strategy, Dynamic Elements, Stale Element Handling
+- 📌 **Locator Strategy**
+  - ID, Name, ClassName, TagName
+  - LinkText, PartialLinkText
+  - CSS Selectors: `[attr='value']`, `.class`, `#id`, pseudo-classes
+  - XPath types:
+    - Absolute vs Relative
+    - `contains()`, `text()`, `starts-with()`
+    - XPath axes: `parent`, `child`, `following-sibling`, `ancestor`, `descendant`
+
+---
+
+
+### Day 10 – WebTables, Dynamic Row Extraction, Pagination
+- Static & dynamic WebTables in Selenium
+- Extracting rows & columns using XPath/CSS
+- Skipping "Loading..." or empty cells in AJAX tables
+- Pagination handling with Next button
+- Ensuring data loads before accessing (AJAX wait handling)
+- Scrolling not required for visible table
+- `stalenessOf()` strategy for page sync
 
 ### 🔗 Practice Sites
 - Alerts: https://demoqa.com/alerts
@@ -121,6 +144,8 @@ Class and Object
 - Day 6 Concepts: https://demoqa.com/automation-practice-form
 - Day 7 Java Collections: https://practicetestautomation.com/practice-test-login/
 - day 8 Wait Strategies: https://the-internet.herokuapp.com/dynamic_controls
+- day 9 wWeb tables and stale element handling: https://demoqa.com/webtables
+- day 10 WebTables and pagignations: https://datatables.net/examples/data_sources/ajax.html
 ---
 
 ## 🛠️ Tools & Setup
