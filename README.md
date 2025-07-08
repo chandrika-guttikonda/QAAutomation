@@ -134,6 +134,23 @@ Class and Object
 - Scrolling not required for visible table
 - `stalenessOf()` strategy for page sync
 
+--
+
+### Day 11 – Mouse/Keyboard Actions, File Upload/Download, Robot Class**
+- Selenium `Actions` class:
+  - Hover (`moveToElement`)
+  - Right-click (`contextClick`)
+  - Double-click (`doubleClick`)
+  - Keyboard simulation via `sendKeys`
+- File Upload:
+  - Using `sendKeys()` for `<input type="file">`
+  - Using `Robot` class for native dialog handling
+- File Download:
+  - Using `ChromeOptions` to set custom download directory
+  - Java File I/O to verify downloaded file exists
+- Java Clipboard handling (`StringSelection`, `Toolkit`)
+- Difference between DOM-based and OS-level interactions
+
 ### 🔗 Practice Sites
 - Alerts: https://demoqa.com/alerts
 - Frames: https://demoqa.com/frames
@@ -146,6 +163,12 @@ Class and Object
 - day 8 Wait Strategies: https://the-internet.herokuapp.com/dynamic_controls
 - day 9 wWeb tables and stale element handling: https://demoqa.com/webtables
 - day 10 WebTables and pagignations: https://datatables.net/examples/data_sources/ajax.html
+- day11 Action menu hover: https://demoqa.com/menu
+- day11 Action example with clicks: https://demoqa.com/buttons
+- day11 filedownalod: https://demoqa.com/upload-download
+- day11 fileuploadwithsendkeys: https://demo.guru99.com/test/upload/
+- day11 fileUpload with robot: https://smallpdf.com/word-to-pdf
+
 ---
 
 ## 🛠️ Tools & Setup
