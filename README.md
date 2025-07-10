@@ -151,6 +151,17 @@ Class and Object
 - Java Clipboard handling (`StringSelection`, `Toolkit`)
 - Difference between DOM-based and OS-level interactions
 
+---
+
+###  Day 12: Exception Handling & Debugging Failures
+- Exception handling
+- try-catch-finally structure
+- Selenium exception handling & screenshots on failure
+- Screenshots saved in /screenshots folder
+
+---
+
+
 ### 🔗 Practice Sites
 - Alerts: https://demoqa.com/alerts
 - Frames: https://demoqa.com/frames
@@ -168,7 +179,7 @@ Class and Object
 - day11 filedownalod: https://demoqa.com/upload-download
 - day11 fileuploadwithsendkeys: https://demo.guru99.com/test/upload/
 - day11 fileUpload with robot: https://smallpdf.com/word-to-pdf
-
+- day 12 Exception Handling, Debugging: https://practicetestautomation.com/practice-test-login/
 ---
 
 ## 🛠️ Tools & Setup
