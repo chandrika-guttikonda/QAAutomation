@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Day14_15_TestSuite" parallel="methods" thread-count="3">
+  <listeners>
+    <listener class-name="Listeners.TestListener" />
+  </listeners>
+  <test name="LoginFeatureTests">
+	  <parameter name="browser" value="chrome"/>
+    <classes>
+<!--      <class name="Day14And15_TestNg.LoginWithExcelAndListenerTest"/>-->
+      <class name="Day14And15_TestNg.SamplePriorityAndParametersTest"/>
+    </classes>
+  </test>
+</suite>
